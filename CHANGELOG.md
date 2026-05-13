@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-16)
+## Unreleased (2026-05-13)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`b43b02f`](https://github.com/stdlib-js/stdlib/commit/b43b02f9fd07945537028912b11e97858eee4ef6) - **chore:** modernize examples and benchmarks _(by Athan Reines)_
 -   [`756763e`](https://github.com/stdlib-js/stdlib/commit/756763e3caa2c2b733225faba76f87aeae86c65a) - **feat:** add `stats/base/ndarray/variancepn` [(#11440)](https://github.com/stdlib-js/stdlib/pull/11440) _(by Pratik)_
 
 </details>
@@ -34,8 +35,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Pratik
 
 </section>
